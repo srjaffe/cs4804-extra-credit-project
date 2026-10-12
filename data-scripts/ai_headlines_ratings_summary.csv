@@ -1,0 +1,31 @@
+id,headline,my_expected,category,ai_bias_rating_mean,ai_bias_rating_std,ai_bias_rating_min,ai_bias_rating_max,ai_confidence_mean,ai_confidence_std
+H01,Trump says 'threat' led US to pull bombers from RAF Fairford,1,politics,1.0,0.0,1.0,1.0,5.0,0.0
+H02,France braces for national day of school protests after injuries and mass arrests,1,world,2.0,0.0,2.0,2.0,4.0,0.0
+H03,"Centalion, Fresh From Rebrand, Does Deal for U.S. Gas Fields",1,business,1.0,0.0,1.0,1.0,5.0,0.0
+H04,Washington Capitals captain Alex Ovechkin says his 22nd NHL season will be his last,1,sports_ent,1.0,0.0,1.0,1.0,5.0,0.0
+H05,WNBA Power Rankings: Atlanta on top after a week of chaos,2,sports_ent,2.0,0.0,2.0,2.0,4.67,0.58
+H06,"1 in 8 cancer cases are caused by infections, underscoring the importance of vaccines, experts say",2,science_health,2.0,0.0,2.0,2.0,4.0,0.0
+H07,"Trump, 80, Promptly Falls Asleep After Announcing New Steel Plant",5,politics,3.67,0.58,3.0,4.0,4.0,0.0
+H08,Trump Unveils $15 Billion Iowa Steel Project,1,politics,1.0,0.0,1.0,1.0,5.0,0.0
+H09,Scientists reveal what seven days of fasting does to the human body,2,science_health,1.0,0.0,1.0,1.0,5.0,0.0
+H10,Intermittent fasting helped people keep weight off for a year,1,science_health,1.0,0.0,1.0,1.0,5.0,0.0
+H11,"Pope Leo Takes On Assisted Death, Secularism, Education In Blunt Message To French Establishment",3,world,2.0,0.0,2.0,2.0,4.0,0.0
+H12,Amazon sending locals $1 billion after Trump tells Big Tech to ‘make communities happy’ about data centers,2,business,2.0,0.0,2.0,2.0,4.0,0.0
+H13,Democrats sound alarm over Trump anti-socialist ad paid for by US government,3,politics,2.0,0.0,2.0,2.0,4.0,0.0
+H14,Anti-ICE rioters hurl rocks at federal agents outside NJ facility,4,politics,3.0,0.0,3.0,3.0,4.0,0.0
+H15,Mark Carney's EU delusion,5,world,5.0,0.0,5.0,5.0,5.0,0.0
+H16,Jets get reality check as Bears completely dominate in ugly loss,5,sports_ent,4.0,0.0,4.0,4.0,5.0,0.0
+H17,Russia Needs to Tell the Truth About a Plague Death,5,science_health,4.0,0.0,4.0,4.0,5.0,0.0
+H18,I'm Begging You: Never Write With AI,5,business,5.0,0.0,5.0,5.0,5.0,0.0
+H19,The West Is Only Helping Putin Consolidate Support,4,world,4.0,0.0,4.0,4.0,4.33,0.58
+H20,Congress Is Trying to Rip Away College Athletes’ Hard-Earned Money,5,sports_ent,5.0,0.0,5.0,5.0,5.0,0.0
+H21,Senate passes Protect College Sports Act with decisive vote,1,sports_ent,1.67,0.58,1.0,2.0,4.33,0.58
+H22,"The U.S. added only 29,000 jobs in September as job market lacks spark",2,business,3.0,0.0,3.0,3.0,4.0,0.0
+H23,FIFA Accused Of 'Losing Credibility' With 2026 World Cup in U.S.,3,sports_ent,2.0,0.0,2.0,2.0,4.0,0.0
+H24,Approval of Congress falls to just 10 percent: Gallup,2,politics,2.0,0.0,2.0,2.0,4.0,0.0
+H25,Spirit Airlines ceases operations after escalating financial struggle,1,business,1.0,0.0,1.0,1.0,5.0,0.0
+H26,"Amy Hamm: For these socialists, Ozempic is a tool for 'genociding fat people'",5,science_health,4.33,0.58,4.0,5.0,4.67,0.58
+H27,Impact of heatwaves and drought on UK harvest prospects in 2026,1,world,1.0,0.0,1.0,1.0,5.0,0.0
+H28,Texas among states in CDC investigation of foodborne parasite outbreak,1,science_health,1.0,0.0,1.0,1.0,5.0,0.0
+H29,"Starmer says he'll resign as UK prime minister, roiling British politics yet again",2,world,2.0,0.0,2.0,2.0,4.0,0.0
+H30,You can't blame 'Trump's war' for death of Spirit Airlines. Biden did it.,5,business,5.0,0.0,5.0,5.0,5.0,0.0

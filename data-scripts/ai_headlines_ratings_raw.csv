@@ -1,0 +1,91 @@
+id,category,run,bias_rating,confidence,explanation
+H01,politics,1,1.0,5.0,The headline objectively reports a statement made by Trump using neutral attribution without emotional or loaded framing.
+H01,politics,2,1.0,5.0,"The headline is purely factual and objective, directly attributing the claim to Trump while using neutral language."
+H02,world,1,2.0,4.0,"The headline is largely factual, though the word 'braces' adds a slight dramatic tone."
+H02,world,2,2.0,4.0,"The headline is largely factual, though the word 'braces' adds a slight dramatic tension."
+H02,world,3,2.0,4.0,"The term 'braces for' adds slight dramatic tension, but the headline otherwise reports factual events neutrally."
+H01,politics,3,1.0,5.0,The headline uses neutral attribution to report a claim made by a public figure without editorializing.
+H03,business,1,1.0,5.0,The headline reports corporate business transactions neutrally without loaded language or emotional framing.
+H03,business,2,1.0,5.0,The headline reports a business acquisition factually and neutrally without loaded language or emotional appeal.
+H03,business,3,1.0,5.0,"The headline uses neutral, straightforward language to report a corporate transaction without emotional appeal or editorializing."
+H04,sports_ent,1,1.0,5.0,"The headline is completely factual and neutral, straightforwardly reporting a statement made by an athlete without loaded language."
+H04,sports_ent,2,1.0,5.0,The headline is completely factual and straightforwardly attributes a statement about retirement to the player.
+H04,sports_ent,3,1.0,5.0,"The headline uses completely neutral, factual language to report a direct statement made by an athlete."
+H05,sports_ent,1,2.0,5.0,"The term 'chaos' adds mild sensationalism and drama, though it is standard sports vernacular to describe an unpredictable week."
+H05,sports_ent,2,2.0,4.0,"The word 'chaos' introduces mild dramatic flair and sensationalism typical of sports journalism, but the headline remains mostly descriptive of a ranking."
+H05,sports_ent,3,2.0,5.0,"The term 'chaos' adds a slightly dramatic flair to describe an unpredictable week, but it remains typical sports commentary."
+H06,science_health,1,2.0,4.0,"The headline reports scientific findings and attributes the conclusion to experts, though framing it around the 'importance of vaccines' slightly guides the takeaway."
+H06,science_health,2,2.0,4.0,"The headline is largely factual and attributes the takeaway to experts, but includes a prescriptive framing regarding the importance of vaccines."
+H06,science_health,3,2.0,4.0,"The headline reports a statistic and properly attributes the takeaway to experts, though framing it around the 'importance of vaccines' slightly guides the reader toward a specific public health stance."
+H07,politics,1,4.0,4.0,The headline emphasizes an embarrassing personal detail alongside his age to evoke a strong negative reaction about his fitness and stamina.
+H07,politics,2,3.0,4.0,The inclusion of his age paired with 'promptly falls asleep' frames the event to emphasize physical decline and elicit a negative reaction.
+H07,politics,3,4.0,4.0,"The headline uses sensationalized framing, emphasizing his age and falling asleep to evoke ridicule and question his physical stamina."
+H08,politics,1,1.0,5.0,"The headline uses purely factual, neutral language to report on an announcement without emotional or loaded terms."
+H08,politics,2,1.0,5.0,"The headline uses neutral, straightforward language to report a factual announcement without emotional framing."
+H08,politics,3,1.0,5.0,"The headline uses neutral, straightforward language to report a factual announcement without emotional or loaded terms."
+H09,science_health,1,1.0,5.0,"The headline is straightforward and informative, reporting scientific findings without sensationalized or loaded language."
+H09,science_health,2,1.0,5.0,The headline objectively describes the topic of a scientific study without loaded language or emotional framing.
+H09,science_health,3,1.0,5.0,"The headline is a neutral, factual description of a scientific study's findings without emotionally charged language."
+H10,science_health,1,1.0,5.0,"The headline reports a study's outcome using neutral, straightforward language without sensationalism or emotional appeal."
+H10,science_health,2,1.0,5.0,"The headline uses neutral, straightforward language to report a factual study outcome without sensationalism or emotional appeal."
+H10,science_health,3,1.0,5.0,The headline straightforwardly reports a study finding without emotional language or sensationalism.
+H11,world,1,2.0,4.0,"The terms 'takes on' and 'blunt message' use slightly colorful, interpretive language rather than purely neutral reporting."
+H11,world,2,2.0,4.0,Terms like 'takes on' and 'blunt message' add a mildly confrontational tone rather than purely neutral reporting.
+H11,world,3,2.0,4.0,Phrases like 'takes on' and 'blunt message' use mildly dramatic framing to characterize the tone rather than describing it strictly neutrally.
+H12,business,1,2.0,4.0,"The headline is mostly factual, but the casual phrasing 'sending locals' and the implied cause-and-effect link slightly frame the narrative."
+H12,business,2,2.0,4.0,"The headline uses colloquial phrasing and implies a direct cause-and-effect relationship, but primarily reports events and uses direct quotation."
+H12,business,3,2.0,4.0,"The headline is largely factual and uses direct quotes, though framing the investment casually as 'sending locals' money slightly simplifies the narrative."
+H13,politics,1,2.0,4.0,"The headline accurately reports a political reaction, but uses somewhat dramatic framing ('sound alarm') instead of neutral terminology."
+H13,politics,2,2.0,4.0,"The idiom 'sound alarm' injects mild dramatic flair, but the headline otherwise reports factually on a political dispute over a taxpayer-funded ad."
+H13,politics,3,2.0,4.0,"The headline factually attributes the criticism to Democrats, though the idiom 'sound alarm' adds a mild sense of urgency."
+H14,politics,1,3.0,4.0,Terms like 'rioters' and 'hurl' carry strong negative and sensational connotations that frame the group in a distinctly aggressive light.
+H14,politics,2,3.0,4.0,The term 'rioters' and vivid verb 'hurl' frame the participants in an emotionally charged and negative light rather than using more neutral terminology.
+H14,politics,3,3.0,4.0,The use of 'rioters' rather than 'protesters' and the evocative verb 'hurl' frame the subjects in an emotionally charged and negative light.
+H15,world,1,5.0,5.0,"The word 'delusion' is intensely loaded and derogatory, framing the subject's stance through a strong editorial opinion rather than factual reporting."
+H15,world,2,5.0,5.0,The word 'delusion' is intensely pejorative and explicitly frames Carney's view as irrational rather than presenting factual information.
+H15,world,3,5.0,5.0,"The word 'delusion' is highly loaded and derogatory, framing an opinion as an irrational belief rather than reporting facts."
+H16,sports_ent,1,4.0,5.0,"Subjective phrases like 'reality check,' 'completely dominate,' and 'ugly loss' use loaded, opinion-driven language rather than neutral, factual reporting."
+H16,sports_ent,2,4.0,5.0,"The headline uses heavily subjective and emotionally charged language like 'reality check,' 'completely dominate,' and 'ugly loss' rather than simply stating the game outcome."
+H16,sports_ent,3,4.0,5.0,"The headline relies on loaded, subjective phrasing like 'reality check,' 'completely dominate,' and 'ugly loss' rather than factual reporting."
+H17,science_health,1,4.0,5.0,"The phrase 'Needs to Tell the Truth' is overtly prescriptive and accuses the subject of dishonesty, reflecting an opinion rather than a factual report."
+H17,science_health,2,4.0,5.0,"The phrase 'needs to tell the truth' is an explicit opinion and directive that presumes dishonesty, rather than reporting factual events objectively."
+H17,science_health,3,4.0,5.0,The phrase 'needs to tell the truth' expresses an editorial opinion and explicitly presumes dishonesty rather than reporting factual events.
+H18,business,1,5.0,5.0,The headline relies on an overtly emotional personal plea to advocate for a specific opinion rather than presenting objective facts.
+H18,business,2,5.0,5.0,"The headline uses emotional, pleading first-person language and an absolute directive to push a strong anti-AI opinion."
+H18,business,3,5.0,5.0,The headline uses an intense emotional plea and an absolute command to push a strong personal opinion rather than report a fact.
+H19,world,1,4.0,4.0,The headline presents an absolute opinion-based political argument as an objective fact using the definitive framing 'is only helping'.
+H19,world,2,4.0,5.0,"The headline frames a subjective geopolitical argument as a definitive fact, using the reductive and absolute phrase 'only helping.'"
+H19,world,3,4.0,4.0,"The headline presents an analytical argument as a definitive statement, using absolute phrasing like 'only helping' to advance an opinion."
+H20,sports_ent,1,5.0,5.0,"The headline uses heavily loaded, emotionally charged language like 'rip away' and 'hard-earned money' to frame Congress's actions in an overtly negative and biased light."
+H20,sports_ent,2,5.0,5.0,"The headline uses heavily loaded, emotional phrasing like 'rip away' and 'hard-earned money' to frame the issue in a strongly biased manner."
+H20,sports_ent,3,5.0,5.0,"The headline uses intensely loaded, emotional language like 'rip away' and 'hard-earned' to vilify Congress and provoke outrage."
+H21,sports_ent,1,2.0,4.0,"The headline is largely factual, with the descriptor 'decisive' adding only a minor subjective characterization of the vote margin."
+H21,sports_ent,2,2.0,4.0,"The headline is largely factual, with only the descriptor 'decisive' adding a slight characterization to the vote margin."
+H21,sports_ent,3,1.0,5.0,"The headline reports a legislative action straightforwardly, using standard objective terms to describe the passage and vote margin."
+H22,business,1,3.0,4.0,The word 'only' and the metaphor 'lacks spark' add subjective editorial framing to an otherwise factual jobs figure.
+H22,business,2,3.0,4.0,The word 'only' and the subjective metaphor 'lacks spark' editorialize an otherwise factual statistic to frame the outcome negatively.
+H22,business,3,3.0,4.0,The word 'only' and the metaphorical phrase 'lacks spark' add subjective interpretation to an otherwise factual economic report.
+H23,sports_ent,1,2.0,4.0,"The headline attributes the critical claim to an outside party using quotation marks, but the phrase 'losing credibility' still introduces subjective framing without naming the accuser."
+H23,sports_ent,2,2.0,4.0,"The headline reports on an external criticism using quotes and attribution ('accused of'), though omitting the accuser slightly amplifies the negative framing."
+H23,sports_ent,3,2.0,4.0,"The headline reports a subjective negative criticism using quotes and 'accused of', which slightly influences the reader while maintaining attribution."
+H24,politics,1,2.0,4.0,"The headline is mostly factual and properly attributed, though the word 'just' slightly emphasizes the low percentage."
+H24,politics,2,2.0,4.0,"The headline is largely factual reporting of a poll, though the word 'just' adds slight emphasis to how low the number is."
+H24,politics,3,2.0,4.0,"The headline is overwhelmingly factual, but the word 'just' adds slight editorial emphasis to how low the number is."
+H25,business,1,1.0,5.0,"The headline reports a business event using straightforward, objective financial language without loaded or emotional phrasing."
+H25,business,2,1.0,5.0,"The headline uses neutral, standard business terminology to report a factual development without sensationalism or emotional framing."
+H25,business,3,1.0,5.0,"The headline reports a business event and its factual context in a neutral, straightforward tone without emotional language."
+H26,science_health,1,4.0,5.0,"The headline uses inflammatory, sensationalist language and partisan framing to provoke outrage and ridicule."
+H26,science_health,2,4.0,4.0,The headline uses highly inflammatory and sensationalized language like 'genociding fat people' and targets a political group to provoke a strong emotional reaction.
+H26,science_health,3,5.0,5.0,The headline uses highly sensational and inflammatory language ('genociding fat people') to evoke strong emotional reactions and caricature a political group.
+H27,world,1,1.0,5.0,"The headline uses completely neutral, matter-of-fact language to describe the subject without any sensationalism or emotional framing."
+H27,world,2,1.0,5.0,The headline neutrally describes an analytical topic without using emotional language or taking a biased stance.
+H27,world,3,1.0,5.0,"The headline uses neutral, straightforward language to describe a topic without emotional or sensational wording."
+H28,science_health,1,1.0,5.0,"The headline reports purely factual information regarding a public health investigation using objective, standard news language."
+H28,science_health,2,1.0,5.0,The headline reports an official public health investigation purely factually with no loaded or sensational language.
+H28,science_health,3,1.0,5.0,"The headline uses purely objective, factual language to report on an official public health investigation without sensationalism."
+H29,world,1,2.0,4.0,The phrase 'roiling British politics yet again' adds dramatic and weary framing to an otherwise straightforward factual report.
+H29,world,2,2.0,4.0,"While the core resignation announcement is factual, words like 'roiling' and 'yet again' add mild drama and editorial color."
+H29,world,3,2.0,4.0,"The phrase 'roiling British politics yet again' adds an interpretive, dramatic flourish to an otherwise factual announcement."
+H30,business,1,5.0,5.0,"The headline directly assigns political blame using declarative, opinionated language rather than reporting objective facts."
+H30,business,2,5.0,5.0,"The headline directly assigns partisan blame and uses confrontational, opinionated language rather than reporting objective facts."
+H30,business,3,5.0,5.0,"The headline directly assigns political blame and uses dramatic, accusatory language rather than stating objective facts."
