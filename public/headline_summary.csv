@@ -1,0 +1,31 @@
+id,headline,category,my_expected,human_bias_mean,human_bias_std,human_conf_mean,n_responses,ai_bias_mean,ai_bias_std,ai_conf_mean,gap
+H01,Trump says 'threat' led US to pull bombers from RAF Fairford,politics,1,2.94,1.2,3.29,17,1.0,0.0,5.0,-1.94
+H02,France braces for national day of school protests after injuries and mass arrests,world,1,2.06,1.03,3.29,17,2.0,0.0,4.0,-0.06
+H03,"Centalion, Fresh From Rebrand, Does Deal for U.S. Gas Fields",business,1,1.71,0.85,3.41,17,1.0,0.0,5.0,-0.71
+H04,Washington Capitals captain Alex Ovechkin says his 22nd NHL season will be his last,sports_ent,1,1.18,0.53,3.88,17,1.0,0.0,5.0,-0.18
+H05,WNBA Power Rankings: Atlanta on top after a week of chaos,sports_ent,2,2.06,1.03,3.71,17,2.0,0.0,4.67,-0.06
+H06,"1 in 8 cancer cases are caused by infections, underscoring the importance of vaccines, experts say",science_health,2,2.53,0.8,3.47,17,2.0,0.0,4.0,-0.53
+H07,"Trump, 80, Promptly Falls Asleep After Announcing New Steel Plant",politics,5,3.18,1.01,3.53,17,3.67,0.58,4.0,0.49
+H08,Trump Unveils $15 Billion Iowa Steel Project,politics,1,1.35,0.49,4.35,17,1.0,0.0,5.0,-0.35
+H09,Scientists reveal what seven days of fasting does to the human body,science_health,2,1.88,1.05,4.0,17,1.0,0.0,5.0,-0.88
+H10,Intermittent fasting helped people keep weight off for a year,science_health,1,2.65,1.22,3.59,17,1.0,0.0,5.0,-1.65
+H11,"Pope Leo Takes On Assisted Death, Secularism, Education In Blunt Message To French Establishment",world,3,2.59,1.37,3.41,17,2.0,0.0,4.0,-0.59
+H12,Amazon sending locals $1 billion after Trump tells Big Tech to ‘make communities happy’ about data centers,business,2,2.94,1.14,3.71,17,2.0,0.0,4.0,-0.94
+H13,Democrats sound alarm over Trump anti-socialist ad paid for by US government,politics,3,3.41,0.94,3.71,17,2.0,0.0,4.0,-1.41
+H14,Anti-ICE rioters hurl rocks at federal agents outside NJ facility,politics,4,2.24,1.09,3.71,17,3.0,0.0,4.0,0.76
+H15,Mark Carney's EU delusion,world,5,3.94,0.97,3.94,17,5.0,0.0,5.0,1.06
+H16,Jets get reality check as Bears completely dominate in ugly loss,sports_ent,5,3.24,1.39,3.94,17,4.0,0.0,5.0,0.76
+H17,Russia Needs to Tell the Truth About a Plague Death,science_health,5,3.76,0.97,3.88,17,4.0,0.0,5.0,0.24
+H18,I'm Begging You: Never Write With AI,business,5,4.35,0.49,4.35,17,5.0,0.0,5.0,0.65
+H19,The West Is Only Helping Putin Consolidate Support,world,4,4.06,0.66,4.06,17,4.0,0.0,4.33,-0.06
+H20,Congress Is Trying to Rip Away College Athletes’ Hard-Earned Money,sports_ent,5,4.12,0.7,4.12,17,5.0,0.0,5.0,0.88
+H21,Senate passes Protect College Sports Act with decisive vote,sports_ent,1,1.71,0.77,4.18,17,1.67,0.58,4.33,-0.04
+H22,"The U.S. added only 29,000 jobs in September as job market lacks spark",business,2,3.0,1.32,3.71,17,3.0,0.0,4.0,0.0
+H23,FIFA Accused Of 'Losing Credibility' With 2026 World Cup in U.S.,sports_ent,3,2.29,0.85,3.53,17,2.0,0.0,4.0,-0.29
+H24,Approval of Congress falls to just 10 percent: Gallup,politics,2,1.82,0.81,3.53,17,2.0,0.0,4.0,0.18
+H25,Spirit Airlines ceases operations after escalating financial struggle,business,1,1.71,0.92,4.06,17,1.0,0.0,5.0,-0.71
+H26,"Amy Hamm: For these socialists, Ozempic is a tool for 'genociding fat people'",science_health,5,4.29,0.69,4.18,17,4.33,0.58,4.67,0.04
+H27,Impact of heatwaves and drought on UK harvest prospects in 2026,world,1,1.53,0.8,4.12,17,1.0,0.0,5.0,-0.53
+H28,Texas among states in CDC investigation of foodborne parasite outbreak,science_health,1,1.41,0.71,3.88,17,1.0,0.0,5.0,-0.41
+H29,"Starmer says he'll resign as UK prime minister, roiling British politics yet again",world,2,2.71,1.26,3.59,17,2.0,0.0,4.0,-0.71
+H30,You can't blame 'Trump's war' for death of Spirit Airlines. Biden did it.,business,5,4.59,0.51,4.41,17,5.0,0.0,5.0,0.41

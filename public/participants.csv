@@ -1,0 +1,18 @@
+participant,news_frequency,news_sources,trust_media,ai_use,politics,age,mean_bias,mean_conf,mean_diff_from_ai
+1,About once a week,"Social media, News websites or apps, Podcasts, Friends or family",2,Daily,Liberal,18-24,3.57,3.93,1.14
+2,Rarely or never,"Social media, YouTube, Friends or family",4,Daily,Conservative,18-24,3.67,3.43,1.31
+3,Rarely or never,Friends or family,3,Daily,Prefer not to say,18-24,3.2,3.83,1.13
+4,About once a day,News websites or apps,3,A few times a week,Conservative,18-24,2.57,3.63,0.99
+5,Several times a day,"Social media, YouTube, News websites or apps, Podcasts, Other",3,A few times a week,Liberal,25-34,3.6,4.0,1.11
+6,A few times a week,"Social media, Podcasts, Friends or family",3,A few times a week,Liberal,18-24,2.9,3.47,0.88
+7,About once a week,"Social media, News websites or apps, Podcasts",2,Daily,Moderate,18-24,2.27,3.57,0.53
+8,About once a day,"Social media, News websites or apps, Podcasts",2,Daily,Very liberal,18-24,2.43,3.47,0.61
+9,About once a day,"News websites or apps, TV",2,Rarely,Liberal,25-34,2.67,3.97,0.76
+10,About once a day,"News websites or apps, Print newspapers or magazines",3,Daily,Moderate,55-64,2.17,4.6,0.7
+11,About once a week,"Social media, News websites or apps, Friends or family",2,Daily,Liberal,18-24,2.57,5.0,0.61
+12,About once a week,"Social media, Friends or family",3,Daily,Liberal,18-24,2.73,4.33,0.58
+13,A few times a week,"Social media, Podcasts, Friends or family, Other",3,Daily,Liberal,18-24,2.13,3.93,0.62
+14,A few times a week,"Social media, TV",3,Rarely,Liberal,18-24,2.0,2.97,0.96
+15,Several times a day,"News websites or apps, Print newspapers or magazines",4,A few times a week,Liberal,45-54,2.5,3.43,0.81
+16,About once a day,"Social media, News websites or apps, Podcasts, Friends or family",3,A few times a month,Liberal,18-24,2.2,3.93,0.76
+17,About once a day,"Social media, News websites or apps, TV, Friends or family",3,A few times a week,Slightly liberal,18-24,2.87,3.4,0.73

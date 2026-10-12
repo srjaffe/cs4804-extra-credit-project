@@ -1,38 +1,152 @@
 .App {
-  text-align: center;
+    text-align: center;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.charts-alignment {
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+    margin-top: 30px;
+    flex-wrap: wrap;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.legend-container {
+    margin-top: 70px;
+    justify-content: center;
+    display: flex;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+.reset-button {
+    margin-bottom: 20px;
+    border: 1px solid #ddd;
+    border-radius: 999px;
+    padding: 10px 14px;
+    background: #fff;
+    cursor: pointer;
+    font-weight: 600;
 }
 
-.App-link {
-  color: #61dafb;
+.reset-button:hover {
+    transform: translateY(-1px);
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.sub-title {
+    color: #333;
+}
+
+.intro-text {
+    max-width: 900px;
+    margin: 10px auto 30px auto;
+    line-height: 1.6;
+    font-size: 15px;
+    color: #444;
+    text-align: center;
+}
+
+.disclaimer-text {
+    max-width: 900px;
+    margin: 100px auto 30px auto;
+    font-size: 10px;
+    color: black;
+    line-height: 1.5;
+    text-align: center;
+    font-weight: bold;
+}
+
+.scatter-plot-text {
+    max-width: 900px;
+    margin: 5px auto 60px auto;
+    font-size: 13px;
+    line-height: 1.6;
+    color: #444;
+    text-align: center;
+}
+
+.dumbbell-chart-text {
+    max-width: 900px;
+    margin: 5px auto 60px auto;
+    font-size: 13px;
+    line-height: 1.6;
+    color: #444;
+    text-align: center;
+}
+
+.bar-chart-text {
+    max-width: 900px;
+    margin: 5px auto 60px auto;
+    font-size: 13px;
+    line-height: 1.6;
+    color: #444;
+    text-align: center;
+}
+
+.website-image {
+    width: 95%;
+    max-width: 1200px;
+    height: 350px;
+    object-fit: cover;
+    display: block;
+    margin: 14px auto 18px auto;
+    border-radius: 9px;
+    box-shadow: 0 8px 22px rgba(0,0,0,0.08);
+}
+
+.image-citation {
+    font-size: 10px;
+    color: #888;
+    text-align: center;
+    margin-top: -10px;
+}
+
+.author-names {
+    font-size: 12px;
+    color: black;
+    text-align: center;
+    margin-top: 40px;
+    margin-bottom: 2px;
+    font-weight: bold;
+}
+
+.publish-date {
+    font-size: 10px;
+    color: black;
+    text-align: center;
+}
+
+/* Scatter Plot Specific Styling */
+.grid line {
+    stroke: #e0e0e0; /* Light grey for grid lines */
+    stroke-opacity: 0.7;
+    shape-rendering: crispEdges;
+}
+
+.grid path {
+    stroke-width: 0; /* Hides the outer box of the grid */
+}
+
+.dot {
+    cursor: pointer;
+    transition: r 0.2s ease;
+}
+
+.dot:hover {
+    r: 12px; /* Makes dots grow slightly when you hover */
+    stroke: #333;
+    stroke-width: 2px;
+}
+
+.key-findings {
+    max-width: 600px;
+    margin: 40px auto;
+    padding: 16px 24px;
+    background: #F5F7FA;
+    border-radius: 6px;
+    text-align: left;
+    font-size: 14px;
+    line-height: 1.6;
+}
+
+.key-findings h3 {
+    margin-top:0;
+    text-align: center;
 }
